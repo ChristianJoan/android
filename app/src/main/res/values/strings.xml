@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alois</string>
+    <string name="button_actividad">Actividad</string>
+    <string name="title_activity_display_game">Game</string>
+    <string name="instruccionJuego1">Seleccione la palabra que corresponde con la imagen</string>
+    <string name="instruccion1Juego2">Seleccione un 1 cuando aparezca </string>
+    <string name="instruccion2Juego2">Seleccione un 2 cuando aparezca </string>
+</resources>
